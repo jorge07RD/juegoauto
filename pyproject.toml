@@ -5,7 +5,14 @@ description = "Add your description here"
 readme = "README.md"
 requires-python = ">=3.13"
 dependencies = [
+    "easyocr>=1.7.2",
+    "keyboard>=0.13.5",
     "matplotlib>=3.10.7",
+    "mouse>=0.7.1",
     "pyautogui>=0.9.54",
+    "pydirectinput>=1.0.4",
+    "pynput>=1.8.1",
+    "pytesseract>=0.3.13",
+    "pywinauto>=0.6.9",
     "screeninfo>=0.8.1",
 ]
